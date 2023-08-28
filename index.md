@@ -3,23 +3,23 @@
 layout: home
 
 hero:
-  name: "Laura Abend"
-  text: "My portfolio"
-  tagline: My great project tagline
+  name: "Laura Abend's"
+  text: "Portfolio"
+  tagline: My accomplishments at Brighton Science
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Work Samples
+      link: /work-samples
     - theme: alt
-      text: API Examples
+      text: About Me
       link: /api-examples
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Engaged teammate
+    details: Actively fostering team unity and facilitating open communication.
+  - title: Self-starter
+    details: Initiating tasks independently, displaying a resourceful and self-motivated attitude.
+  - title: Senior Software Engineer
+    details: Striving for excellence in my role, contributing to the team's overall success and achievements.
 ---
 

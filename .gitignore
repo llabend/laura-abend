@@ -1,3 +1,8 @@
+# Local
+.DS_Store
+projects/.DS_Store
+.vscode/
+
 # node
 node_modules
 
