@@ -5,7 +5,7 @@ export default defineConfig({
   base: "/laura-abend/",
   title: "My portfolio",
   head: [
-    ['link', { rel: 'icon', href: 'assets/favicon_io/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/laura-abend/assets/favicon_io/favicon.ico' }]
   ],
   description: "Samples of my work",
   themeConfig: {
