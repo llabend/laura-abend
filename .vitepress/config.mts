@@ -5,14 +5,16 @@ export default defineConfig({
   base: "/laura-abend/",
   title: "My portfolio",
   head: [
-    ['link', { rel: 'icon', href: '/laura-abend/assets/favicon_io/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/laura-abend/favicon.ico' }]
   ],
   description: "Samples of my work",
+  lang: 'en-US',
+  srcExclude: ['**/README.md'],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Sample', link: '/work-samples' }
+      { text: 'Samples', link: '/work-samples' }
     ],
 
     sidebar: [
