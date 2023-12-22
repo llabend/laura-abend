@@ -75,4 +75,5 @@ Stretch into various roles including DevOps, Design, Product Management, QA
 - Newsletters
   - staying aware of current industry trends
 - Reading through Vue docs
+- VitePress + this portfolio site!
 
