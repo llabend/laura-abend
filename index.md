@@ -12,7 +12,7 @@ hero:
       link: /work-samples
     - theme: alt
       text: About Me
-      link: /api-examples
+      link: /about-me
 
 features:
   - title: Engaged teammate

@@ -1,85 +1,78 @@
-# Markdown Extension Examples
+# Work Samples
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+Samples of the work I've completed since starting at Brighton Science in July 2022.
 
-## Syntax Highlighting
+## Quick Stats
+- **✅ 137 completed stories**
+- **🧑🏻‍💻 665 GitHub contributions**
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
+## Surface Profile Development
 
-**Input**
+Passionate about making internal tools the best they can be for co-workers, I led discovery conversations for improving Surface Profile Development. After a half-day workshop in March 2022 and continued conversations with our primary stakeholders, I created the appropriate initiative, epics, and stories to encapsulate the work.
 
-````
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
+![Sticky notes on a virtual whiteboard](/assets/surface-profile-development-workshop-notes.png "Surface Profile Development Workshop Notes")
 
-**Output**
+![Jira Initiative outlining the details of Surface Profile Development Project](/assets/surface-profile-development-initiative.png "Jira Initiative")
 
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
 
-## Custom Containers
+Browse the Jira Initiative for relevant details and links to corresponding epics, stories, and workshop whiteboard: **[Link to Jira Initiative](https://brightonscience.atlassian.net/browse/SOF-1096)**
 
-**Input**
+---
+**The need for an experiment template specific to surface profile development was identified and created:**
 
-```md
-::: info
-This is an info box.
-:::
+![BConnect web app experiment template selection view with surface profile development selected](/assets/surface-profile-development-template.png "Surface Profile Development Template")
 
-::: tip
-This is a tip.
-:::
+It needed to be available only to certain internal users so the template is hidden behind an internal user role.
 
-::: warning
-This is a warning.
-:::
+---
+**This new template presented a unique challenge since a Brighton employee would need to be able to assign it to a specific client. We added an environment picker that only displays for Surface Profile experiments (and, therefore, internal user roles):**
 
-::: danger
-This is a dangerous warning.
-:::
+![BConnect web app experiment details view with selection highlighted in environment id dropdown](/assets/surface-profile-development-environment-picker.png "Surface Profile Environment Picker")
 
-::: details
-This is a details block.
-:::
-```
+---
+### More improvements for folks who regularly develop surface profiles:
 
-**Output**
+**Warn a user if they're about to overwrite an existing profile**
+![Overwrite Warning Modal](/assets/surface-profile-overwrite-warning.png "Surface Profile Overwrite Warning Modal")
 
-::: info
-This is an info box.
-:::
+---
+**Easily view a profile and all of its fields**
 
-::: tip
-This is a tip.
-:::
+Working with internal stakeholders again, I gathered information about the best way to organize, order, and display surface profile data and then implemented a solution.
 
-::: warning
-This is a warning.
-:::
+In the Surface Profile list, a user can select 'View profile'
+![Table row with hyperlink to View Profile](/assets/surface-profile-list-view-profile.png "View profile option")
 
-::: danger
-This is a dangerous warning.
-:::
+The user is then taken to the Surface Profile view where they can expand and collapse sections to view relevant fields and easily copy the JSON from this page as well.
+![Surface Profile View Profile Page](/assets/surface-profile-view-profile.png "View profile option")
 
-::: details
-This is a details block.
-:::
+---
+**Search Surface Profile list**
 
-## More
+The list of surface profiles will continue to grow and now users can search by Network ID.
 
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
+All results
+![Surface Profile List View all results with 2 columns redacted](/assets/surface-profile-list-view-all-results.png "All results")
+
+Search results
+![Surface Profile List View search results displays 2 profiles in a list with 2 columns redacted](/assets/surface-profile-list-view-search-results.png "Search results")
+
+## Cypress Optimization
+
+- Implementation of cached test user login
+- Runtime improvements
+
+## Founding Engineer
+Stretch into various roles including DevOps, Design, Product Management, QA
+- Bicep
+- Quick prototyping to get POCs up
+- Story creation
+- e2e testing advocate
+
+## Professional Development
+- VueConf 2023
+- Cypress Conf 2023
+- Newsletters
+  - staying aware of current industry trends
+- Reading through Vue docs
+
