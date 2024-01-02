@@ -19,9 +19,9 @@ I love all sorts of adventures! Currently, my main points of interest include:
 1. 🛬 Visiting friends & family around the U.S.
 
 ### 3 Random Facts
+🇦🇺 I was born in Australia, but grew up in the U.S.
+
 🎭 I once towed a small puppet theater behind a tandem bicycle, performing for the curious souls of Michigan during their annual Tour Detroit bike event.
 
-🍿 I have seen all 94 Best Picture winners. Frank Capra's 1938 flick, *You Can't Take It With You*, is my favorite of the bunch.
-
-🎃 I've been a finalist in or won most Halloween costume contests I've entered.
+🍿 I have seen all 94 Best Picture winners. *You Can't Take It With You*, Frank Capra's 1938 flick, is my favorite of the bunch.
 

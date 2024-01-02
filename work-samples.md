@@ -5,12 +5,18 @@ Samples of the work I've completed since starting at Brighton Science in July 20
 ## Quick Stats
 - **✅ 137 completed stories**
 - **🧑🏻‍💻 665 GitHub contributions**
+- **🗣️ 3 Engineering Conferences**
 
 ## Surface Profile Development
 
-Passionate about making internal tools the best they can be for co-workers, I led discovery conversations for improving Surface Profile Development. After a half-day workshop in March 2022 and continued conversations with our primary stakeholders, I created the appropriate initiative, epics, and stories to encapsulate the work.
+Passionate about making internal tools the best they can be for fellow co-workers, I led discovery conversations for improving Surface Profile Development. After a half-day workshop in March 2022 and continued conversations with our primary stakeholders, I created the appropriate initiative, epics, and stories to encapsulate the work.
 
+--- 
+#### Discovery Meeting Whiteboard
 ![Sticky notes on a virtual whiteboard](/assets/surface-profile-development-workshop-notes.png "Surface Profile Development Workshop Notes")
+
+---
+#### Jira Initiative
 
 ![Jira Initiative outlining the details of Surface Profile Development Project](/assets/surface-profile-development-initiative.png "Jira Initiative")
 
@@ -18,16 +24,18 @@ Passionate about making internal tools the best they can be for co-workers, I le
 Browse the Jira Initiative for relevant details and links to corresponding epics, stories, and workshop whiteboard: **[Link to Jira Initiative](https://brightonscience.atlassian.net/browse/SOF-1096)**
 
 ---
-**The need for an experiment template specific to surface profile development was identified and created:**
+#### Surface Profile Development Experiment Template
 
 ![BConnect web app experiment template selection view with surface profile development selected](/assets/surface-profile-development-template.png "Surface Profile Development Template")
 
-It needed to be available only to certain internal users so the template is hidden behind an internal user role.
+The need for an experiment template specific to surface profile development was identified and created. It needed to be available only to certain internal users so the template is hidden behind an internal user role.
 
 ---
-**This new template presented a unique challenge since a Brighton employee would need to be able to assign it to a specific client. We added an environment picker that only displays for Surface Profile experiments (and, therefore, internal user roles):**
+#### Network ID Picker
 
 ![BConnect web app experiment details view with selection highlighted in environment id dropdown](/assets/surface-profile-development-environment-picker.png "Surface Profile Environment Picker")
+
+This new template presented a unique challenge since a Brighton employee would need to be able to assign it to a specific client. We added an environment picker that only displays for Surface Profile experiments (and, therefore, internal user roles).
 
 ---
 ### More improvements for folks who regularly develop surface profiles:
@@ -59,19 +67,23 @@ Search results
 
 ## Cypress Optimization
 
-- Implementation of cached test user login
-- Runtime improvements
+- I follow Cypress improvements by subscribing to their newsletter. Because of this, I saw that a recent update had introduced easier setup for caching test user login. I implemented this update so I could test out the test user caching - and it worked!
+- We saw major runtime improvements and less flakiness around user login while running the suite.
 
 ## Founding Engineer
-Stretch into various roles including DevOps, Design, Product Management, QA
-- Bicep
-- Quick prototyping to get POCs up
-- Story creation
-- e2e testing advocate
+As a founding engineer for BConnect Web, I've stretched into various roles including DevOps, Design, Product Management, and Quality Assurance. I'm comfortable wearing many hats to help the team keep moving forward.
+- Bicep - to ensure we removed knowledge silos, I completed Microsoft Azure Bicep training and took over most of the infrastructure updates until the team grew and we could keep training folks on this skill. 
+- I have contributed weekly to getting MVPs spun up and presented that work at All-Company Sprint Reviews where I field questions and feedback
+- I regularly create stories & bugs as needed
+- I am a proponent for and regularly contribute to our end-to-end Cypress test suite
+- All of this and more directly contributes to the continuous improvement of BConnect for our customers
 
 ## Professional Development
+I am passionate about keeping my skills current and continuing to improve individually. A few of the ways I do this is by attending conferences, reading documentation & newsletters, participating in the Code Review process, and self-guided learning.
+
 - VueConf 2023
 - Cypress Conf 2023
+- Women Who Code Connect Conf 2023
 - Newsletters
   - staying aware of current industry trends
 - Reading through Vue docs
