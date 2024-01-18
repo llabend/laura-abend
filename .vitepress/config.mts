@@ -3,7 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   base: "/laura-abend/",
-  title: "My portfolio",
+  title: "Laura Abend",
+  titleTemplate: "Portfolio",
   head: [
     ['link', { rel: 'icon', href: '/laura-abend/favicon.ico' }]
   ],
@@ -29,6 +30,10 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/llabend' }
-    ]
+    ],
+
+    footer: {
+      copyright: 'Copyright © 2024 Laura Abend'
+    }
   }
 })
