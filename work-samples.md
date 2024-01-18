@@ -6,6 +6,7 @@ Samples of the work I've completed since starting at Brighton Science in July 20
 - **✅ 137 completed stories**
 - **🧑🏻‍💻 665 GitHub contributions**
 - **🗣️ 3 Engineering Conferences**
+- **📚 41 days and counting reading Vue docs regularly**
 
 ## Surface Profile Development
 
@@ -65,10 +66,11 @@ All results
 Search results
 ![Surface Profile List View search results displays 2 profiles in a list with 2 columns redacted](/assets/surface-profile-list-view-search-results.png "Search results")
 
-## Cypress Optimization
+## Cypress Advocate
 
-- I follow Cypress improvements by subscribing to their newsletter. Because of this, I saw that a recent update had introduced easier setup for caching test user login. I implemented this update so I could test out the test user caching - and it worked!
-- We saw major runtime improvements and less flakiness around user login while running the suite.
+- I follow Cypress improvements by subscribing to their newsletter. Because of this, I saw that a recent update had introduced easier setup for caching test user login. I implemented this update so I could try out the test user caching - and it worked! As a result, we saw major runtime improvements and less flakiness around user login while running the suite.
+- I added Cypress screenshots to the PR build - it will now post screenshots to a directory if there are failures.
+- I noticed we were unnecessarily uploading videos for every test run even if they passed - this greatly slowed down our pipeline builds. I updated the Cypress config to only publish a video if a test fails saving us time and resources.
 
 ## Founding Engineer
 As a founding engineer for BConnect Web, I've stretched into various roles including DevOps, Design, Product Management, and Quality Assurance. I'm comfortable wearing many hats to help the team keep moving forward.
@@ -76,11 +78,13 @@ As a founding engineer for BConnect Web, I've stretched into various roles inclu
 - I have contributed weekly to getting MVPs spun up and presented that work at All-Company Sprint Reviews where I field questions and feedback
 - I regularly create stories & bugs as needed
 - I am a proponent for and regularly contribute to our end-to-end Cypress test suite
-- All of this and more directly contributes to the continuous improvement of BConnect for our customers
+- I participated in the engineer interview process, helping to identify a lead engineer and recruit another full-stack engineer to the team
+- All of this and more directly contributes to the continuous improvement of BConnect to deliver an excellent product for our customers
 
 ## Professional Development
 I am passionate about keeping my skills current and continuing to improve individually. A few of the ways I do this is by attending conferences, reading documentation & newsletters, participating in the Code Review process, and self-guided learning.
 
+- Brighton Science Front-End Planning Committee
 - VueConf 2023
 - Cypress Conf 2023
 - Women Who Code Connect Conf 2023

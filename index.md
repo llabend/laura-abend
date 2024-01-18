@@ -19,7 +19,7 @@ features:
     details: Actively fostering team unity and facilitating open communication.
   - title: Self-starter
     details: Initiating tasks independently, displaying a resourceful and self-motivated attitude.
-  - title: Senior Software Engineer
+  - title: Senior Front-End Engineer
     details: Striving for excellence in my role, contributing to the team's overall success and achievements.
 ---
 
