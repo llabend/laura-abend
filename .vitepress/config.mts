@@ -2,10 +2,10 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Laura Abend",
+  title: "LA",
   titleTemplate: "Portfolio",
   head: [
-    ['link', { rel: 'icon', href: '/laura-abend/favicon.ico' }]
+    ['link', { rel: 'icon', href: '/favicon.ico' }]
   ],
   description: "Samples of my work",
   lang: 'en-US',
