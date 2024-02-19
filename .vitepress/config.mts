@@ -1,38 +1,35 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "LA",
-  titleTemplate: "Portfolio",
-  head: [
-    ['link', { rel: 'icon', href: '/favicon.ico' }]
-  ],
-  description: "Samples of my work",
+  title: 'LA',
+  titleTemplate: 'Portfolio',
+  description: 'Samples of my work',
   lang: 'en-US',
   srcExclude: ['**/README.md'],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Samples', link: '/work-samples' }
+      { text: 'Work', link: '/work' },
     ],
 
     sidebar: [
       {
-        text: 'Examples',
         items: [
-          { text: 'Work Samples', link: '/work-samples' },
+          { text: 'Work', link: '/work' },
+          { text: 'Founding Engineer', link: '/founding-engineer' },
+          { text: 'Cypress Advocate', link: '/cypress-advocate' },
+          { text: 'Professional Development', link: '/professional-development' },
           { text: 'About Me', link: '/about-me' }
-        ]
-      }
+        ],
+      },
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/llabend' }
-    ],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/llabend' }],
 
     footer: {
-      copyright: 'Copyright © 2024 Laura Abend'
-    }
-  }
-})
+      copyright: 'Copyright © 2024 Laura Abend',
+    },
+  },
+});
