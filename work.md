@@ -48,7 +48,7 @@ Search results
 ![Surface Profile List View search results displays 2 profiles in a list with 2 columns redacted](/assets/surface-profile-list-view-search-results.png "Search results")
 
 ## Client Logos
-> [!NOTE]
+> :warning: NOTE:
 > Due to non-disclosure agreement (NDA) restrictions, I am unable to share images on this public site. However, you can view the images through the associated Jira story: **[Link to Jira story](https://brightonscience.atlassian.net/browse/SOF-2178)**
 
 I meticulously added 12 client logos to BConnect so that our first 12 clients would have a personalized touch on their BConnect devices. This entailed: 
