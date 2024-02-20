@@ -1,5 +1,5 @@
 # Work
-Since joining Brighton Science in July 2022, I have successfully completed over 150 stories, leaving a lasting impact on the BConnect web application and our suite of tools including GitHub, Jira, and Azure. Below and to the left, I showcase some of my contributions in delivering an exceptional product to our customers.
+Since joining Brighton Science in July 2022, I have successfully completed over 150 stories, leaving a lasting impact on the BConnect web application and our suite of tools including GitHub, Jira, and Azure. Below, I showcase some of my contributions in delivering an exceptional product to our customers. The left-hand navigation outlines additional skills and experience that underscore my value to the team.
 
 ## Surface Profile Development
 
@@ -21,7 +21,7 @@ The need for an experiment template specific to surface profile development was 
 This new template presented a unique challenge since a Brighton employee would need to be able to assign it to a specific client. We added an environment picker that only displays for Surface Profile experiments (and, therefore, internal user roles).
 ![BConnect web app experiment details view with selection highlighted in environment id dropdown](/assets/surface-profile-development-environment-picker.png "Surface Profile Environment Picker")
 
-### More improvements for folks who regularly develop surface profiles:
+### More Improvements for Developing Surface Profiles:
 <br>
 
 #### Warn a user if they're about to overwrite an existing profile
@@ -51,7 +51,7 @@ Search results
 > :warning: NOTE:
 > Due to non-disclosure agreement (NDA) restrictions, I am unable to share images on this public site. However, you can view the images through the associated Jira story: **[Link to Jira story](https://brightonscience.atlassian.net/browse/SOF-2178)**
 
-I meticulously added 12 client logos to BConnect so that our first 12 clients would have a personalized touch on their BConnect devices. This entailed: 
+To ensure our clients would have a personalized touch on their BConnect devices, I added each of their logos to BConnect. This entailed:
 1. Finding logos for each client and making sure they would look good on the device
 1. Verifying each logo individually on the device emulator 
 1. Verifying each logo on the actual BConnect device at the Minneapolis office

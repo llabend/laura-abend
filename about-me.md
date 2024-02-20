@@ -13,10 +13,14 @@ From there I've dug deep into learning all sorts of technologies, from infrastru
 
 ### Outside of Work
 I love all sorts of adventures! Currently, my main points of interest include:
-1. 🛠️ Updating a 1984 suburban house (read: All The Golden Oak)
-1. 🛶 Exploring Minnesota for new places to kayak
-1. 🥾 Hiking with my dog + spouse
-1. 🛬 Visiting friends & family around the U.S.
+
+🛠️ Updating a 1984 suburban house (read: All The Golden Oak)
+<br>
+🛶 Exploring Minnesota for new places to kayak
+<br>
+🥾 Hiking with my dog + spouse
+<br>
+🛬 Visiting friends & family around the U.S.
 
 ### 3 Random Facts
 🇦🇺 I was born in Australia, but grew up in the U.S.

@@ -6,6 +6,10 @@ hero:
   name: "Laura Abend's"
   text: "Portfolio"
   tagline: My accomplishments at Brighton Science
+  actions:
+  - theme: alt
+    text: View my work
+    link: /work
 
 features:
   - title: Senior Front-End Engineer
