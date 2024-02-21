@@ -60,6 +60,6 @@ To ensure our clients would have a personalized touch on their BConnect devices,
 1. Lastly, I made improvements to the Administration/Client Upload section based on input from UX to enhance its functionality
 
 ## FormKit
-VueConf 2022 had a profound impact on me, especially when it comes to FormKit. Recognizing the need for faster form development including improved validation and accessibility support, I successfully integrated FormKit into the BConnect platform, empowering us to create forms more efficiently.
+VueConf 2023 had a profound impact on me, especially when it comes to FormKit. Recognizing the need for faster form development including improved validation and accessibility support, I successfully integrated FormKit into the BConnect platform, empowering us to create forms more efficiently.
 
 ![Blank project form with an open datepicker](/assets/project-details-form.png "Project Details Form")
