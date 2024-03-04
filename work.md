@@ -9,7 +9,6 @@ Passionate about making internal tools the best they can be for fellow co-worker
 ![Sticky notes on a virtual whiteboard](/assets/surface-profile-development-workshop-notes.png "Surface Profile Development Workshop Notes")
 
 ### Jira Initiative
-Browse the Jira Initiative for relevant details and links to corresponding epics, stories, and workshop whiteboard: **[Link to Jira Initiative](https://brightonscience.atlassian.net/browse/SOF-1096)**
 ![Jira Initiative outlining the details of Surface Profile Development Project](/assets/surface-profile-development-initiative.png "Jira Initiative")
 
 
@@ -49,9 +48,9 @@ Search results
 
 ## Client Logos
 > :warning: NOTE:
-> Due to non-disclosure agreement (NDA) restrictions, I am unable to share images on this public site. However, you can view the images through the associated Jira story: **[Link to Jira story](https://brightonscience.atlassian.net/browse/SOF-2178)**
+> Due to non-disclosure agreement (NDA) restrictions, I am unable to share images on this public site, but have outlined the steps taken below to ensure a seamless and excellent customer experience.
 
-To ensure our clients would have a personalized touch on their BConnect devices, I added each of their logos to BConnect. This entailed:
+To ensure our clients would have a personalized touch on their BConnect devices, I added each of their logos to BConnect manually since we did not yet have the functionality for users to add their logos independently. This entailed:
 1. Finding logos for each client and making sure they would look good on the device
 1. Verifying each logo individually on the device emulator 
 1. Verifying each logo on the actual BConnect device at the Minneapolis office

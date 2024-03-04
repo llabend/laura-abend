@@ -20,13 +20,19 @@ export default defineConfig({
           { text: 'Work', link: '/work' },
           { text: 'Founding Engineer', link: '/founding-engineer' },
           { text: 'Cypress Advocate', link: '/cypress-advocate' },
-          { text: 'Professional Development', link: '/professional-development' },
-          { text: 'About Me', link: '/about-me' }
+          {
+            text: 'Professional Development',
+            link: '/professional-development',
+          },
+          { text: 'About Me', link: '/about-me' },
         ],
       },
     ],
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/llabend' }],
+    socialLinks: [
+      { icon: 'github', link: 'https://github.com/llabend' },
+      { icon: 'linkedin', link: 'https://linkedin.com/in/lauraabend' },
+    ],
 
     footer: {
       copyright: 'Copyright © 2024 Laura Abend',
