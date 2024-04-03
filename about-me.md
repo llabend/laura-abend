@@ -27,5 +27,5 @@ I love all sorts of adventures! Currently, my main points of interest include:
 
 🎭 I once towed a small puppet theater behind a tandem bicycle, performing for the curious souls of Michigan during their annual Tour Detroit bike event.
 
-🍿 I have seen all 94 Best Picture winners. *You Can't Take It With You*, Frank Capra's 1938 flick, is my favorite of the bunch.
+🍿 I have seen all 96 Best Picture winners. *You Can't Take It With You*, Frank Capra's 1938 flick, is my favorite of the bunch.
 
