@@ -1,5 +1,5 @@
 # [My portfolio site](https://lauraabend.dev/)
-
+[![Deploy VitePress site to Pages](https://github.com/llabend/laura-abend/actions/workflows/deploy.yml/badge.svg)](https://github.com/llabend/laura-abend/actions/workflows/deploy.yml)
 ### Purpose: 
 A place to document my contributions and accomplishments as a software engineer for Brighton Science. This was also an opportunity to learn how to use VitePress because we've been considering using it for our internal documentation.
 
