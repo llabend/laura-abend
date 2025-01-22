@@ -1,5 +1,6 @@
 # Founding Engineer
 As a founding engineer for BConnect Web, I've stretched into various roles including DevOps, Design, Product Management, and Quality Assurance. I'm comfortable wearing many hats to help the team keep moving forward.
+- Triad - I represent front-end development at weekly triad meetings, demonstrating leadership by advocating for user-centric design and ensuring seamless integration with back-end services.
 - Bicep - to ensure we removed knowledge silos, I completed Microsoft Azure Bicep training and took over most of the infrastructure updates until the team grew and we could keep training folks on this skill
 - I have contributed weekly to getting MVPs spun up and presented that work at All-Company Sprint Reviews where I field questions and feedback
 - I regularly create stories & bugs as needed

@@ -1,5 +1,5 @@
 # Work
-Since joining Brighton Science in July 2022, I have successfully completed over 150 stories, leaving a lasting impact on the BConnect web application and our suite of tools including GitHub, Jira, and Azure. Below, I showcase some of my contributions in delivering an exceptional product to our customers. The left-hand navigation outlines additional skills and experience that underscore my value to the team.
+Since joining Brighton Science in July 2022, I have successfully completed hundreds of stories, leaving a lasting impact on the BConnect web application and our suite of tools including GitHub, Jira, and Azure. Below, I showcase some of my contributions in delivering an exceptional product to our customers. The left-hand navigation outlines additional skills and experiences that underscore my value to the team.
 
 ## Surface Profile Development
 
