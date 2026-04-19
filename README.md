@@ -11,6 +11,16 @@ A place to document my contributions and accomplishments as a software engineer 
     - I successfully deployed using GitHub Actions 8/28/23.
 1. Share for annual review ✅
 
+### How to run this project
+1. Install dependencies:
+   - `npm install`
+1. Start the local VitePress dev server:
+   - `npm run docs:dev`
+1. Build the site for production:
+   - `npm run docs:build`
+1. Preview the built site locally on port `8080`:
+   - `npm run docs:preview`
+
 ### Technologies
 1. [VitePress](https://vitepress.dev/)
 1. [GitHub Actions](https://github.com/features/actions)
