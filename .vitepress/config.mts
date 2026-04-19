@@ -35,7 +35,7 @@ export default defineConfig({
     ],
 
     footer: {
-      copyright: 'Copyright © 2025 Laura Abend',
+      copyright: 'Copyright © 2026 Laura Abend',
     },
   },
 });
