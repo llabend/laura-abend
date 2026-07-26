@@ -7,6 +7,18 @@ export default defineConfig({
   description: 'Samples of my work',
   lang: 'en-US',
   srcExclude: ['**/README.md'],
+  head: [
+    ['link', {
+      rel: 'icon',
+      href: '/logo-green.svg',
+      media: '(prefers-color-scheme: light)'
+    }],
+    ['link', {
+      rel: 'icon',
+      href: '/logo-white.svg',
+      media: '(prefers-color-scheme: dark)'
+    }],
+  ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
